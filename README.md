@@ -4,7 +4,7 @@
 
 ## Introduction
 
-As we approach the 2023 FIFA Women's World Cup, I decided to explore the Women's world cup games with MSSQL just like I had done for the Men's World Cup in November last year. For the women's world cup, I used SQL to answer the following questions:
+As we approach the 2023 FIFA Women's World Cup, I decided to explore the Women's world cup games with the [international women's football games dataset](https://www.kaggle.com/datasets/martj42/womens-international-football-results) at Kaggle using  MSSQL just like I had done for the Men's World Cup in November last year. For the women's world cup, I used SQL to answer the following questions:
 
 1. How many countries have hosted the tournament?
 2. How many wins does each country have in the competition?
